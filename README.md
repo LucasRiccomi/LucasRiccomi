@@ -17,7 +17,7 @@ I have great communication, ability to work in a team, a lot of dedication and e
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
 
 ## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
 
 ## Contatos:
 
@@ -34,6 +34,4 @@ I have great communication, ability to work in a team, a lot of dedication and e
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasRiccomi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-![](https://github.com/README.md/<div class="tenor-gif-embed" data-postid="26484614" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/viciadoemcodar-gif-26484614">Viciadoemcodar GIF</a>from <a href="https://tenor.com/search/viciadoemcodar-gifs">Viciadoemcodar GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
 
-  
