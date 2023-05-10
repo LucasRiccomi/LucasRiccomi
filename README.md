@@ -34,5 +34,6 @@ I have great communication, ability to work in a team, a lot of dedication and e
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasRiccomi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-<img src=<div class="tenor-gif-embed" data-postid="25301200" data-share-method="host" data-aspect-ratio="1.31148" data-width="100%"><a href="https://tenor.com/view/xmooney-computer-developing-developer-coding-gif-25301200">Xmooney Computer GIF</a>from <a href="https://tenor.com/search/xmooney-gifs">Xmooney GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> width="60" height="60"/>
+
+![xmooney-computer](https://github.com/LucasRiccomi/LucasRiccomi/assets/128861365/9835ab9d-02ea-44b4-a987-7e80aca05544)
 
