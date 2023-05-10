@@ -33,8 +33,6 @@ I have great communication, ability to work in a team, a lot of dedication and e
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRiccomi&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasRiccomi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  
-![Snake animation](https://github.com/LucasRiccomi/LucasRiccomi/blob/output/github-contribution-grid-snake.svg)
-  
+    
 ![viciadoemcodar](https://github.com/LucasRiccomi/LucasRiccomi/assets/128861365/b10ae135-f648-41a0-9b28-d3107c836068)
   
