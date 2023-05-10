@@ -2,19 +2,23 @@
 ## My name is Lucas Riccomi Fernandes and my nickname is "Riccomi"!
 
 - 🔭 I currently work at MRV&CO as an administrative assistant in the post-delivery sector.
+
 - 🌱 I'm studying Systems Analysis and Development at UNA, where I'm currently learning the main programming languages ​​Java and Python.
+
 - 📫 How to reach me:
---) Phone: (31) 98444-4873;
---) Email: lucasriccomi2002@gmail.com;
---) Instagram: Lucas _ Riccomi;
+- -) Phone: (31) 98444-4873;
+- -) Email: lucasriccomi2002@gmail.com;
+- -) Instagram: Lucas _ Riccomi;
+
 - ⚡ Fun fact: 
 I have great communication, ability to work in a team, a lot of dedication and effort, creativity, proactive and good time management.
 
 ## Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
 
 ## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
 
 ## Contatos:
 
