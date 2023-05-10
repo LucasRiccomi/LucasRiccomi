@@ -13,13 +13,13 @@
 - ⚡ Fun fact: 
 I have great communication, ability to work in a team, a lot of dedication and effort, creativity, proactive and good time management.
 
-## Ferramentas e Tecnologias
+## Tools and Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
 
-## Estou aprendendo
+## I am learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>
 
-## Contatos:
+## Contacts:
 
 <div>
   
