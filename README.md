@@ -35,5 +35,5 @@ I have great communication, ability to work in a team, a lot of dedication and e
 </div>
   
 
-<img src=![viciadoemcodar](https://github.com/LucasRiccomi/LucasRiccomi/assets/128861365/7af01018-c57d-493d-9f20-a266569b3cc8)width="60" height="60"/>width="60" height="60"/>
+[viciadoemcodar](https://github.com/LucasRiccomi/LucasRiccomi/assets/128861365/7af01018-c57d-493d-9f20-a266569b3cc8)
 
