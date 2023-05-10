@@ -35,4 +35,6 @@ I have great communication, ability to work in a team, a lot of dedication and e
 </div>
   
 ![viciadoemcodar](https://github.com/LucasRiccomi/LucasRiccomi/assets/128861365/b10ae135-f648-41a0-9b28-d3107c836068)
+  
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
