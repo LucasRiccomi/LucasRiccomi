@@ -1,14 +1,14 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Lucas Riccomi Fernandes and my nickname is "Riccomi"!
 
-- 🔭 I currently work at MRV&CO as an administrative assistant in the post-delivery sector.
+- 🔭 I currently work at Associação Residencial Nascentes as an administrative assistant in the technical sector.
 
 - 🌱 I'm studying Systems Analysis and Development at UNA, where I'm currently learning the main programming languages ​​Java and Python.
 
 - 📫 How to reach me:
-- -) Phone: (31) 98444-4873;
-- -) Email: lucasriccomi2002@gmail.com;
-- -) Instagram: Lucas _ Riccomi;
+    * Phone: (31) 98444-4873;
+    * Email: lucasriccomi2002@gmail.com;
+    * Instagram: Lucas _ Riccomi;
 
 - ⚡ Fun fact: 
 I have great communication, ability to work in a team, a lot of dedication and effort, creativity, proactive and good time management.
